@@ -1,16 +1,21 @@
-# rent_a_car
+# Car Rental App
 
-A new Flutter project.
+## Overview
+A Car Rental App using Google Flutter - UI only
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* **Available Car :** User can see the available cars for rent.
+* **Book a Car :** User can book a car.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<img src="https://github.com/tulsieroyt/rent_a_car/assets/128843282/36847d31-60f0-4453-9858-ec70a4d17c65" alt="Splash Screen" width="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/tulsieroyt/rent_a_car/assets/128843282/94a358d0-4924-465b-89e9-d8c12aa98c55" alt="Splash Screen" width="300">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/tulsieroyt/rent_a_car/assets/128843282/f21ab0c1-af72-4cb2-be03-60377b701adf" alt="Splash Screen" width="300">
+
+
+
+## Feedback
+If you have any feedback, please reach out to us at tulsieroyt@gmail.com
